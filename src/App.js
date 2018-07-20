@@ -1,3 +1,4 @@
+// copied straight from the solution!
 import React, { Component } from 'react';
 import './App.css';
 import router from './router';
